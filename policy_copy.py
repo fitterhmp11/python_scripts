@@ -1,3 +1,6 @@
+# this script takes a portion of fortinet policy config, changes and text port (for example
+# interface name) modifies the name, and creates a new policy with ID 0 .  It prints out only necessary
+# lines in the outputfile_modified.txt
 
 
 import sys
