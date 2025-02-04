@@ -1,3 +1,8 @@
+# this script connects to a fortigate using API to get the devices detected and puts them into a csv file for sorting and using.
+
+
+
+
 import requests
 import pandas as pd  # For creating the CSV
 import json
