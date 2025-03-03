@@ -2,7 +2,6 @@
 
 
 
-
 import requests
 import pandas as pd  # For creating the CSV
 import json
